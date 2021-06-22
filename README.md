@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+这是某个不知名的GitHub玩家，有问题请留下你的Issues。
+
+电子邮件：[theshadowdumb@gmail.com](mailto:theshadowdumb@gmail.com)
+
 <!--
 **ShadowDumb/ShadowDumb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
