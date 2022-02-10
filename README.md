@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-这是某个不知名的GitHub玩家，有问题请留下你的Issues。
+这是某个不知名的GitHub玩家，有问题请留下您的Issues。
 
 电子邮件：[theshadowdumb@gmail.com](mailto:theshadowdumb@gmail.com)
 
