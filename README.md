@@ -2,6 +2,8 @@
 
 这是某个不知名的GitHub玩家，有问题请留下您的Issues。
 
+这个人很懒，还没有写个性签名！
+
 电子邮件：[theshadowdumb@gmail.com](mailto:theshadowdumb@gmail.com)
 
 <!--
